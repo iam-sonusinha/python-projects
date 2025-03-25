@@ -4,6 +4,8 @@ Welcome to my Python Projects Repository! 🚀 This repository contains a collec
 📌 Projects List
 
 Expense Tracker - A simple CLI application to track your daily expenses using CSV files.
+To-Do List Application - This is a simple To-Do List application built using Python. It allows users to add, view, mark, and delete tasks. The program is designed for beginners to practice Python programming concepts.
+
 
 💡 About the Projects
 
